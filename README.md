@@ -1,1 +1,0 @@
-# BMI-Calculator with JavaScript
